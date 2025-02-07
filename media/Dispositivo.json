@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "velocidadAlta": 1.0E9,
+        "velocidadBaja": 1.0E7,
+        "ip": "192.168.1.1",
+        "nombre": "RouterA",
+        "marca": "Netplus"
+    },
+    {
+        "id": 2,
+        "velocidadAlta": 9.0E9,
+        "velocidadBaja": 4.0E7,
+        "ip": "198.162.7.1",
+        "nombre": "RouterB",
+        "marca": "CISCO"
+    },
+    {
+        "id": 3,
+        "velocidadAlta": 7.0E9,
+        "velocidadBaja": 2.0E7,
+        "ip": "191.163.7.1",
+        "nombre": "RouterC",
+        "marca": "tpl"
+    },
+    {
+        "id": 4,
+        "velocidadAlta": 1.2E9,
+        "velocidadBaja": 2.7000001E7,
+        "ip": "191.173.7.1",
+        "nombre": "RouterD",
+        "marca": "JPG"
+    },
+    {
+        "id": 5,
+        "velocidadAlta": 1.23E9,
+        "velocidadBaja": 1.7002001E7,
+        "ip": "141.179.7.1",
+        "nombre": "RouterE",
+        "marca": "Juap"
+    },
+    {
+        "id": 6,
+        "velocidadAlta": 2.23E9,
+        "velocidadBaja": 3.7002001E7,
+        "ip": "194.179.7.1",
+        "nombre": "RouterF",
+        "marca": "PLO"
+    },
+    {
+        "id": 7,
+        "velocidadAlta": 1.23E9,
+        "velocidadBaja": 1.7002001E7,
+        "ip": "141.179.7.1",
+        "nombre": "RouterG",
+        "marca": "Juap"
+    },
+    {
+        "id": 8,
+        "velocidadAlta": 9.0E8,
+        "velocidadBaja": 1.0E8,
+        "ip": "190.166.1.2",
+        "nombre": "RouterH",
+        "marca": "Bcc"
+    },
+    {
+        "id": 9,
+        "velocidadAlta": 10.0E8,
+        "velocidadBaja": 2.0E8,
+        "ip": "190.166.1.3",
+        "nombre": "RouterI",
+        "marca": "Im"
+    }
+]

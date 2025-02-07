@@ -1,0 +1,41 @@
+{
+  "etiquetas": [
+    {
+      "id": 1,
+      "label": "RouterA"
+    },
+    {
+      "id": 2,
+      "label": "RouterB"
+    },
+    {
+      "id": 3,
+      "label": "RouterC"
+    },
+    {
+      "id": 4,
+      "label": "RouterD"
+    },
+    {
+      "id": 5,
+      "label": "RouterE"
+    },
+    {
+      "id": 6,
+      "label": "RouterF"
+    },
+    {
+      "id": 7,
+      "label": "RouterG"
+    },
+    {
+      "id": 8,
+      "label": "RouterH"
+    },
+    {
+      "id": 9,
+      "label": "RouterI"
+    }
+  ],
+  "aristas": []
+}
